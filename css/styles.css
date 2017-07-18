@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.section {
+    background-color: indianred;
+    height: 20vh;
+    width: 100vw;
+}
